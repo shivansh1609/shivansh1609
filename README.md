@@ -1,9 +1,11 @@
-# 🌟 Hey, I’m Shivanshu Pandey
+# 🌟 Hey, I’m Shivanshu Pandey!
+
+**shivansh1609/shivansh1609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 ---
 
 - 🔭 I’m currently working on **interactive Power BI dashboards** and **data analytics projects**  
-- 🌱 I’m currently learning **Machine Learning**, **ETL workflows**, and **advanced SQL**  
+- 🌱 I’m currently learning **Machine Learning** and **advanced SQL**  
 - 👯 I’m looking to collaborate on **open-source web development** and **data visualization projects**  
 - 🤔 I’m looking for help with **optimizing backend systems** and **scalable architectures**  
 - 💬 Ask me about **DSA**, **Python**, **Power BI**, and **React.js**  
@@ -35,6 +37,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivansh1609&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
