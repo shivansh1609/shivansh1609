@@ -1,10 +1,8 @@
 # 🌟 Hey, I’m Shivanshu Pandey!
 
-**shivansh1609/shivansh1609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-
 ---
 
-## 👋 Welcome to My GitHub Space!
+## 👋 Welcome to My Little GitHub Space!
 > *"Welcome to the world of bugs I lovingly call **features**."* 😎  
 
 Here, you’ll find:
