@@ -1,6 +1,5 @@
 # 🌟 Hey, I’m Shivanshu Pandey!
 
-**shivansh1609/shivansh1609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 ---
 
